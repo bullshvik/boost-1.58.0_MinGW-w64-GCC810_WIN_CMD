@@ -3,5 +3,5 @@
 Built using included b2.exe
 
 (TODO)
-Built options.
+Build options.
  
